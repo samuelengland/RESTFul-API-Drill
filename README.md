@@ -5,12 +5,20 @@ This API uses the Spring Boot Framework to implement RESTFul-API that supports u
 
 
 ***Get all entries*** - GET "/api/metadata"
+
 ***Get single entry*** - GET "/api/metadata/{id}"
+
 ***Create entry*** - POST "/api/metadata"
+
 ***Update entry*** - PUT "/api/metadata/{id}"
+
 ***Delete entry*** - DELETE "/api/metadata/{id}"
 
+
 ***Upload file form*** - GET "/"
+
 ***Uploading file*** - POST "/"
+
 ***Download Content Stream*** - GET "/getallfiles"
+
 ***Get specific file*** - GET "/files/{filesname:.+}"
