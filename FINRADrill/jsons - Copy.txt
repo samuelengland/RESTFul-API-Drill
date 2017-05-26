@@ -1,0 +1,12 @@
+[
+  { 
+    "fullname" : "Bran Stark",
+    "age" : 8,
+    "bio" : "Warg"
+  },
+  { 
+    "fullname" : "Arya Stark",
+    "age" : 10,
+    "bio" : "Assassin of the many faces"
+  }
+]
